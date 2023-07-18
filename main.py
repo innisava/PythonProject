@@ -1,6 +1,5 @@
-def add_numbers(a, b):
-    return a + b
+def multiply_numbers(a, b):
+    return a * b
 
-result = add_numbers(5, 10)
+result = multiply_numbers(3, 7)
 print(result)
-
